@@ -1,0 +1,11 @@
+# Java
+*.class
+*.jar
+build/
+out/
+
+# Environnements de développement
+.idea/
+.vscode/
+*.iml
+.DS_Store
